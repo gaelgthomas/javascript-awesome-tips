@@ -30,4 +30,4 @@ Do you have any suggestions to improve the repository? Let us know or [contribut
 
 ### Main Contributor 🙂
 
--   **Gaël Thomas**: [Twitter](https://twitter.com/gaelthomas_/) - [Instagram](https://www.instagram.com/herewecode.io/) - [Website](https://herewecode.io/).
+-   **Gaël Thomas**: [Twitter](https://twitter.com/gaelgthomas/) - [Website](https://herewecode.io/).
